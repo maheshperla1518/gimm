@@ -267,11 +267,17 @@
   .mt-6 {
     margin-top: calc(var(--spacing) * 6);
   }
+  .mt-12 {
+    margin-top: calc(var(--spacing) * 12);
+  }
   .mt-14 {
     margin-top: calc(var(--spacing) * 14);
   }
   .mt-16 {
     margin-top: calc(var(--spacing) * 16);
+  }
+  .mt-22 {
+    margin-top: calc(var(--spacing) * 22);
   }
   .mt-54 {
     margin-top: calc(var(--spacing) * 54);
@@ -556,9 +562,6 @@
   }
   .text-\[22px\] {
     font-size: 22px;
-  }
-  .text-\[26px\] {
-    font-size: 26px;
   }
   .font-bold {
     --tw-font-weight: var(--font-weight-bold);
